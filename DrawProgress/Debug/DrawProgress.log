@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\company\drawprogress\drawprogress\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\company\drawprogress\drawprogress\source.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\company\drawprogress\drawprogress\source.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\company\drawprogress\drawprogress\source.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\company\drawprogress\drawprogress\source.cpp(36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DrawProgress.vcxproj -> D:\Company\DrawProgress\Debug\DrawProgress.exe
